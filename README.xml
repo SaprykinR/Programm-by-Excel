@@ -1,5 +1,5 @@
-# Programm-by-Excel
-$ git init
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 LOX=int(input())
 LIN=int(input())
 LOXLIN=int(input())
