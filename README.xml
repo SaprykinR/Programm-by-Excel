@@ -1,4 +1,5 @@
 # Programm-by-Excel
+$ git init
 LOX=int(input())
 LIN=int(input())
 LOXLIN=int(input())
